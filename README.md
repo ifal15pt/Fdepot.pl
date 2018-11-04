@@ -1,1 +1,1 @@
-# http-www.backend.codepot.pl
+# www.backend.codepot.pl
